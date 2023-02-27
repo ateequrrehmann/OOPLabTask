@@ -1,0 +1,6 @@
+
+		 ====== Student Record ======
+Name:	sdafa
+Registration ID:	22
+Current Semester:	22
+Address:	

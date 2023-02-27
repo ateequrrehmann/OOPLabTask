@@ -1,0 +1,43 @@
+
+Average is 20
+Fail
+
+Name adfa
+Id 33
+Quiz 1 66
+Quiz 2 7
+Assignment 17
+Assignment 17
+Mid 7
+Final 7
+Average is 9
+Fail
+
+Name 7
+Id 7
+Quiz 1 8
+Quiz 2 8
+Assignment 18
+Assignment 18
+Mid 8
+Final 8
+Name Ateeq
+Id 221475
+Quiz 1 33
+Quiz 2 88
+Assignment 199
+Assignment 177
+Mid 99
+Final 88
+Average is 96
+Grade is A
+Name Ateeq
+Id 221493
+Quiz 1 900
+Quiz 2 88
+Assignment 188
+Assignment 155
+Mid 44
+Final 33
+Average is 241
+Grade is A

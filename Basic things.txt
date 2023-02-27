@@ -1,0 +1,12 @@
+we do typecasting to optimize memory.
+
+Difference between structure in c and structure in c++
+Structures in C cannot have member functions inside a structure but Structures in C++ can have member functions along with data members.
+
+We call the function explicently. It has no use if we don't call it.
+
+Using Namespace std: Tell the compiler that built in libraries use hone lagi
+
+Compiler reads from right to left.
+
+Hello

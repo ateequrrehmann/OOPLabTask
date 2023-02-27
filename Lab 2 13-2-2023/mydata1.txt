@@ -1,0 +1,7 @@
+
+		 ====== Student Record ======
+		1. Ateeq Ur Rehman
+		2. Aneeb Ur Rehman
+		3. Shafiq Ur Rehman
+		4. Muhammad Ali
+		5. Muhammad Azhar
